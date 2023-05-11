@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Anthony Faccioli
-🔭 Estudante da área de programação
-🌱 Focado em me tornar um programador FullStack
-🎓 Universidade Santa Cecília
+- 🔭 Estudante da área de programação
+- 🌱 Focado em me tornar um programador FullStack
+- 🎓 Universidade Santa Cecília
 
 
 <div>
