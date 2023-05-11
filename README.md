@@ -1,7 +1,7 @@
 ### Olá!! Eu sou o Anthony Faccioli
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+🔭 Estudante da área de programação
+🌱 Focado em me tornar um programador FullStack
+🎓 Universidade Santa Cecília
 
 
 <div>
