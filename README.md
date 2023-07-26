@@ -7,7 +7,7 @@
 <div>
 <a href="https://github.com/AnthFacci">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anthfacci&count_private=true&show_icons=true&theme=merko"/>
-<a href="https://github.com/AnthFacci"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnthFacci&theme=merko&line_height=40&hide=css"/> </a>
+<a href="https://github.com/AnthFacci"> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnthFacci&theme=merko&line_height=40&hide=css"/> </a>
 </div>
 
 <div style="display: inline_block"><br>
