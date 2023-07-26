@@ -6,7 +6,7 @@
 <a href="https://github.com/AnthFacci"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AnthFacci&theme=react&line_height=40&hide=css"/> </a>
 <div>
 <a href="https://github.com/AnthFacci">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anthfacci&count_private=true&show_icons=true&theme=merko"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Anthfacci&count_private=true&show_icons=true&theme=merko"/>
 <a href="https://github.com/AnthFacci">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Anthfacci&hide_progress=true&theme=merko"/>
 </div>
